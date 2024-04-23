@@ -1,4 +1,3 @@
-# AWS_EC2-Creation-using-CLI
 # Creating an EC2 Instance in AWS Using CLI
 
 This guide will walk you through the process of creating an EC2 instance in AWS using the AWS Command Line Interface (CLI). You will need to perform the following steps:
