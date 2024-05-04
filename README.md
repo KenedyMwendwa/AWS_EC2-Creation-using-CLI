@@ -54,4 +54,8 @@ This guide will walk you through the process of creating an EC2 instance in AWS 
 
 Make sure to replace placeholders like `your-vpc-id`, `your-ami-name`, etc., with your actual values. Adjust the parameters according to your specific requirements.
 
-Feel free to reach out if you need further assistance!
+### ⚙️ Connect with Me
+
+<p align="center">
+<a href="mailto:mulilamwendwa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kenedy-mulila-29319215a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
